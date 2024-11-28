@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Esporte',
+    'Qual esporte é conhecido como "o rei dos esportes"?',
+    'Futebol 
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Música',
+    'Qual o nome do famoso festivalde músicaque aconteceem Woodstock, Nova York?',
+    'woodstock'
 )
 
 criaCartao(
