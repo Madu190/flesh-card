@@ -1,7 +1,7 @@
 criaCartao(
     'Esporte',
     'Qual esporte é conhecido como "o rei dos esportes"?',
-    'Futebol 
+    'Futebol'
 )
 
 criaCartao(
@@ -30,7 +30,7 @@ criaCartao(
 criaCartao(
     'Esporte',
     ' Quem é considerado o maior artilheiro da história da Copa do Mundo de Futebol?',
-     Miroslav Klose''
+    'Miroslav Klose''
 )
 
 criaCartao(
@@ -52,7 +52,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'Qual das opções é uma linguagem de programação orientada a objetos?',
-    ' Python'
+    'Python'
 )
 criaCartao(
     'musica',
@@ -62,7 +62,7 @@ criaCartao(
 criaCartao(
     'muica',
     'Qual banda lançou o álbum "Abbey Road" em 1969?',
-    ' The Beatles'
+    'The Beatles'
 )
 criaCartao(
     'historia',
@@ -72,10 +72,10 @@ criaCartao(
 criaCartao(
     'historia',
     'Em que ano ocorreu a queda do Muro de Berlim?',
-    ' 1989'
+    '1989'
 )
 criaCartao(
     'historia',
     'Qual foi a principal causa da Primeira Guerra Mundial?',
-    'A assassinação do arquiduque Francisco Ferdinando '
+    'A assassinação do arquiduque Francisco Ferdinando'
 )
